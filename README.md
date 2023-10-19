@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Guilherme Cunha™
+## My name is Guilherme B Cunha™
 
 ## 📟 GitHub Stats
 
@@ -7,6 +7,9 @@
 <a href="https://github.com/GuilhermeBCunhaa">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBCunhaa&layout=compact&langs_count=7&theme=tokyonight"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBCunhaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+<div>
+  <img loading="lazy" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeBCunhaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 📱 Contacts:

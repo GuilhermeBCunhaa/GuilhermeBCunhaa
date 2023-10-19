@@ -6,7 +6,7 @@
 <div>
 <a href="https://github.com/GuilhermeBCunhaa">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeBCunhaa&layout=compact&langs_count=7&theme=synthwave"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBCunhaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeBCunhaa&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
 </div>
 
 ## 📱 Contacts:

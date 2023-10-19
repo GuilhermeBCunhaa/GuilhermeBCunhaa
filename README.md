@@ -18,5 +18,8 @@
 </div>
 
 <div>
-<img loading="lazy" height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GuilhermeBCunhaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+          
 </div>

@@ -28,4 +28,6 @@
   <a href="https://www.linkedin.com/in/guilherme-borges-b7892926a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![](https://d31iynjnzaofi5.cloudfront.net/blog/uploads/2018/11/giphy-12.gif)
+<div align="center">
+  <img src="https://d31iynjnzaofi5.cloudfront.net/blog/uploads/2018/11/giphy-12.gif" width="200" />
+</div>

@@ -17,7 +17,7 @@
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40"/>
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40"/>
-
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40"/>
 </div>
 
 ## 📱 Contacts:
@@ -28,4 +28,4 @@
   <a href="https://www.linkedin.com/in/guilherme-borges-b7892926a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/GuilhermeBCunhaa/GuilhermeBCunha/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/GuilhermeBCunhaa/GuilhermeBCunhaa/blob/output/github-contribution-grid-snake.svg)

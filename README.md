@@ -28,6 +28,4 @@
   <a href="https://www.linkedin.com/in/guilherme-borges-b7892926a/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/GuilhermeBCunhaa/GuilhermeBCunhaa/blob/output/github-contribution-grid-snake.svg)
-
 ![](https://d31iynjnzaofi5.cloudfront.net/blog/uploads/2018/11/giphy-12.gif)

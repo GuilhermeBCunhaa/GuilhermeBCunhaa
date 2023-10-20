@@ -30,4 +30,4 @@
 
 ![Snake animation](https://github.com/GuilhermeBCunhaa/GuilhermeBCunhaa/blob/output/github-contribution-grid-snake.svg)
 
-<p align="center"><img src="https://d31iynjnzaofi5.cloudfront.net/blog/uploads/2018/11/giphy-12.gif" /></p>
+![Texto alternativo](https://d31iynjnzaofi5.cloudfront.net/blog/uploads/2018/11/giphy-12.gif)
